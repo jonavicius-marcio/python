@@ -1,0 +1,1 @@
+Salve sua classe em json e depois crie novamente a instacia classe com so dados salvos
